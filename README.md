@@ -2,7 +2,7 @@
 
 # CONF-FILES
 
-
+'''
 root@861ff513557f:/# cat /etc/asterisk/
 Display all 111 possibilities? (y or n)
 root@861ff513557f:/# cat /etc/asterisk/asterisk.conf 
@@ -2710,6 +2710,6 @@ exten => 1002,1,Dial(SIP/1002)
 ----------------------------------
 
 
-
+'''
 
 
