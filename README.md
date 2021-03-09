@@ -2,7 +2,7 @@
 
 # CONF-FILES
 
-`
+```
 root@861ff513557f:/# cat /etc/asterisk/sip.conf 
 ;
 ; SIP Configuration example for Asterisk
@@ -38,11 +38,10 @@ context=public
 host=dynamic
 callerid="phil"
 mailbox=1002@default
-
-`
+```
 ## Extensions.conf
 ------------
-`
+```
 root@f2ae1345f263:/# cat /etc/asterisk/extensions.conf 
 ; extensions.conf - the Asterisk dial plan
 ;
